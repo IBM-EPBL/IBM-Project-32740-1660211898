@@ -1,7 +1,4 @@
-1. “Develop an IoT enabled Android application to give realtime parking space available on the campus.
-
-2. Smart Street Light Metering System.
-
-3. “Multimodal Attendance System.
-
-4. Smart Security System for a Smart University.
+ Smart parking system
+ Smart traffic management system
+ Smart mirror
+ Smart baggage tracker
