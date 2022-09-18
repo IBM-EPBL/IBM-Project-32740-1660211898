@@ -1,4 +1,0 @@
- Smart parking system
- Smart traffic management system
- Smart mirror
- Smart baggage tracker
